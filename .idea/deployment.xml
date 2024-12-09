@@ -1,18 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="PublishConfigData" autoUpload="Always" serverName="saklani@saklani@ironhide.research.cs.dal.ca:22 agent (2)" deleteMissingItems="true" remoteFilesAllowedToDisappearOnAutoupload="false">
+  <component name="PublishConfigData" autoUpload="Always" serverName="saklani@saklani@ironhide.research.cs.dal.ca:22 agent (3)" deleteMissingItems="true" remoteFilesAllowedToDisappearOnAutoupload="false" confirmBeforeDeletion="false">
+    <option name="confirmBeforeDeletion" value="false" />
     <serverData>
-      <paths name="saklani@ironhide.research.cs.dal.ca:22 password">
+      <paths name="saklani@saklani@ironhide.research.cs.dal.ca:22 agent (2)">
         <serverdata>
           <mappings>
-            <mapping deploy="/tmp/pycharm_project_149" local="$PROJECT_DIR$" />
+            <mapping deploy="/Projects/Karate-Tracker" local="$PROJECT_DIR$" web="/" />
           </mappings>
         </serverdata>
       </paths>
-      <paths name="saklani@saklani@ironhide.research.cs.dal.ca:22 agent">
+      <paths name="saklani@saklani@ironhide.research.cs.dal.ca:22 agent (3)">
         <serverdata>
           <mappings>
-            <mapping deploy="/tmp/pycharm_project_149" local="$PROJECT_DIR$" />
+            <mapping deploy="/home/saklani/Projects/Karate-Tracker" local="$PROJECT_DIR$" />
           </mappings>
         </serverdata>
       </paths>
